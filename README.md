@@ -53,12 +53,6 @@ PlanZilla is a web application that simplifies calendar management by integratin
 - Fetches real-time event data for authenticated users.
 - Enables robust event management capabilities.
 
-### **Deployment**: Render
-- Easy deployment with automatic scaling.
-- Reliable uptime and performance monitoring.
-
----
-
 ## Local Installation
 - Clone the repo
 - cd backend
@@ -73,9 +67,3 @@ PlanZilla is a web application that simplifies calendar management by integratin
 - Click on any event for detailed information.
 
 ---
-
-## Deployment
-
-PlanZilla is live and ready to use! Access the deployed application here:
-- **Live Deployment**: [PlanZilla on Render](https://planzilla2-0.onrender.com)
-- Note : Your browser should not have any extensions enabled and clear the cache or try incognito mode, in case the site doesn't work Ctrl+F5.
